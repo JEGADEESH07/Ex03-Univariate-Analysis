@@ -26,9 +26,9 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 # Program:
 
-Name : LEANN JOBY MATHEW
+Name : JEGADEESH SATHAIYA
 
-Reg no : 212222230074
+Reg no : 212222230055
 
 ```python
 import pandas as pd
